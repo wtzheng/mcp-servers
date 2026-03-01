@@ -1,0 +1,11 @@
+mysql:
+  host: localhost
+  port: 3306
+  user: root
+  password: ""
+  database: ""
+  ssl:
+    enabled: false
+    # ca_cert: /path/to/ca.pem
+    # client_cert: /path/to/client-cert.pem
+    # client_key: /path/to/client-key.pem
